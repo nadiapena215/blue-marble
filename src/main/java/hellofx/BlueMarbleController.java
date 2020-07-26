@@ -13,7 +13,7 @@ import javafx.scene.effect.ColorAdjust;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.text.Text;
-
+ 
 public class BlueMarbleController {
 	@FXML
     private DatePicker dateInput;
